@@ -1,0 +1,140 @@
+@media (min-width: 992px) {
+  #donate_start.jumbotron {
+    border-radius:30px;
+    padding:40px;
+    background-color:rgba(255,255,255,0.75);
+    margin:0 auto;
+    max-width:800px;
+    text-align:center;
+  }
+}
+
+#welcome_heading {
+  text-align:center;
+  padding:30px;
+  padding-bottom:10px;
+  margin:0 auto;
+}
+
+#video {
+  text-align:center;
+  background-color:black;
+  padding:20px;
+}
+
+.navbar.navbar-dark.navbar-expand-md.navigation-clean-search {
+  padding-bottom:10px;
+}
+
+.footer-basic {
+  background-color:rgb(255,255,255);
+}
+
+#nna {
+  padding:20px;
+}
+
+.cl {
+  text-align:center;
+  padding-top:70px;
+  font-size:27px;
+}
+
+.cl1 {
+  text-align:center;
+  font-size:42px;
+}
+
+p {
+  text-align:left;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  text-align:center;
+}
+
+.container {
+  text-align:center;
+}
+
+#p1 {
+  padding-top:50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding-top:50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align:center;
+}
+
+body {
+  text-align:center;
+  padding-top:0px;
+}
+
+textarea {
+  overflow:auto;
+  text-align:center;
+  padding:30px;
+  resize:vertical;
+}
+
+.img-fluid {
+  height:193.313px;
+}
+
+.img-fluid.article_pic {
+  height:399px;
+}
+
+#p12 {
+  text-align:center;
+}
+
+#submit_12 {
+  text-align:center;
+  border-color:white;
+}
+
+#donate_start {
+  text-align:center;
+}
+
+#div_submit {
+  padding:30px;
+}
+
+#donate_button_homepage:hover {
+  background-color:#ffa500;
+}
+
+#p_submit {
+  text-align:center;
+}
+
+#choosefile_1 {
+  padding-bottom:30px;
+}
+
+#button_1 {
+  text-align:center;
+}
+
+.form-control.to_padd {
+  padding:20px;
+}
+
+.form-control {
+}
+
+#div1 {
+  text-align:left;
+  padding:20px;
+}
+
+#para1 {
+  text-align:center;
+}
+
